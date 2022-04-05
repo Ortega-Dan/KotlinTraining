@@ -9,8 +9,6 @@
 
   <name>kottest</name>
 
-  <url>http://www.example.com</url>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>11</maven.compiler.source>
@@ -136,3 +134,4 @@
     </plugins>
   </build>
 </project>
+
