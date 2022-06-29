@@ -5,7 +5,7 @@ package org.danort;
  *
  */
 public class App {
-    public static void main(String[] args) {
+    public static void oldMain(String[] args) {
         System.out.println("Hello World!");
     }
 }
