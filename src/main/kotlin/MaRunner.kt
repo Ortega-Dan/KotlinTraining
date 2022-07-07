@@ -10,7 +10,7 @@ fun main() = runBlocking {
         test2()
     }
 
-    println("**Finished")
+    println(" **Finished**")
 }
 
 suspend fun test1() {
@@ -22,7 +22,7 @@ suspend fun test1() {
 }
 
 suspend fun test2() {
-    println("  Test 2-1")
+    println("   Test 2-1")
     delay(150)
-    println("  Test 2-2")
+    println("   Test 2-2")
 }
