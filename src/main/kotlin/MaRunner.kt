@@ -9,6 +9,8 @@ fun main() = runBlocking {
         }
         test2()
     }
+
+    println("**Finished")
 }
 
 suspend fun test1() {
